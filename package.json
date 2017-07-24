@@ -1,0 +1,7 @@
+{
+  "name": "helloworld",
+  "version": "0.0.1",
+  "description": "Test App",
+  "main": "index.js",
+  "license": "MIT"
+}
